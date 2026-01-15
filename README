@@ -1,0 +1,6 @@
+## Instalación
+1. Clona el repo: `git clone https://github.com/tuusuario/todo-list-app.git`
+2. Entra a la carpeta: `cd todo-list-app`
+3. Instala dependencias: `npm install`
+4. Corre el servidor: `node backend/server.js`
+5. Abre `frontend/index.html` en un navegador (usa Live Server en VS Code para evitar CORS issues)
